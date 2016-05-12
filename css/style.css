@@ -4,7 +4,7 @@
     font-size: 100%;
 }
 
-p, h1, h2, li
+p, h1, h2, h3, li
 {
         width: 100%;
         max-width: 800px;
@@ -52,7 +52,7 @@ margin-top: 1em;}
 
 h1, h2, h3 {
     margin-top: 1em;
-    font-weight: bold;
+    font-weight: bolder;
     }
 
 
@@ -64,9 +64,6 @@ h2 {
     margin-bottom: 0.5em;
 }
 
-.colour {
-    margin-top: 2em;
-}
 
     
 h3 {
@@ -91,7 +88,7 @@ ul {
 }
 
 li {line-height: 1.7em;
-    color: #73C5E5;}
+    color: #2c072d;}
 
 li p
 {
