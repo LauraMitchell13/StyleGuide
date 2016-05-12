@@ -19,7 +19,7 @@ p, h1, h2, h3, li
 
 /* --------------- HEADER ---------------- */ 
 
-hr { 
+.header { 
     border: 4px solid #2c072d;
 margin-top: 1em;}
 
@@ -28,8 +28,6 @@ margin-top: 1em;}
     margin-top: -2em;
        background: purple ;
     }
-
-.monogram { margin-top: 0em;}
 
 .title { 
     margin-top: 0em;
