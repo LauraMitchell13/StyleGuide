@@ -4,7 +4,7 @@
     font-size: 100%;
 }
 
-p, h1, h2, h3, li
+h1, h2, h3, li, p, blockquote
 {
         width: 100%;
         max-width: 800px;
