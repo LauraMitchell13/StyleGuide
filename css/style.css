@@ -132,16 +132,7 @@ img {
              margin-right: 16em;
              margin-top: 1em;}
 
-.icons-filled {
-    max-width: 600px;
-    margin-top: 1em;
-}
 
-.icons {
-    max-width: 600px;
-    margin-top: -2em;
-    margin-bottom: 5em;
-}
 
 /*--------------------FOOTER---------------------*/
 footer {
@@ -152,5 +143,5 @@ footer {
 }
 
 .footer {
-    margin-bottom: -2em;
+    margin-bottom: -4em;
 }
