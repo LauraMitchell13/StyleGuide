@@ -121,18 +121,18 @@ img {
 }
 
 .colour pallette {
-    max-width: -300px;
+    max-width: -600px;
 }
 
 
-.visual marque { max-width: -200px;
+.visual marque { max-width: -600px;
             float: left;
             margin-right: 16em;
             margin-top: -1.1em;
             }
 
 .monogram { max-width: 250px;
-             float: centre;
+             float: left;
              margin-right: 16em;
              margin-top: 1em;}
 
