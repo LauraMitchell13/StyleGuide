@@ -1,0 +1,160 @@
+* { 
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+}
+
+p, h1, h2, li
+{
+        width: 100%;
+        max-width: 800px;
+        min-width: 320px;
+        font-family: 'Poiret One', cursive;
+        margin: auto;   
+        background-colour: #fff;
+        color: #2c072d;
+        line-height: 1.5em;
+    }
+
+
+/* --------------- HEADER ---------------- */ 
+
+hr { 
+    border: 4px solid #2c072d;
+margin-top: 1em;}
+
+
+.purple {
+    margin-top: -2em;
+       background:#28b7c4 ;
+    }
+
+.monogram { margin-top: 0em;}
+
+.title { 
+    margin-top: 0em;
+    text-align: center;
+    color: #2c072d;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+}
+
+.subtitle {
+    margin-top: 0em;
+    text-align: center;
+    color: #993399;
+    font-size: 1.5em;
+    letter-spacing: 2px;
+}
+
+
+/* --------------- TYPOGRAPHY ---------------- */
+
+h1, h2, h3 {
+    margin-top: 1em;
+    font-weight: bold;
+    }
+
+
+h2 {
+    color: #540656;
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
+}
+
+.colour {
+    margin-top: 2em;
+}
+
+    
+h3 {
+    color: #993399;
+    font-size: 2em;
+    margin-top: 0.7em;
+    }
+
+p { font-family: 'Poiret One', cursive;
+    line-height: 1.7em;
+    padding-bottom: 1em;
+    margin-bottom: 1em;
+    font-size: 120%;
+    font-weight: 100;
+    }
+
+ul {
+    margin-top: 1em;
+    margin-bottom: 3em;
+    margin-left: 30px;
+    list-style-type:disc; 
+}
+
+li {line-height: 1.7em;
+    color: #73C5E5;}
+
+li p
+{
+    margin-bottom: -0em;
+  color: #2c072d;
+}
+
+
+
+/* --------------- IMAGES ---------------- */
+
+img {
+   display: block; 
+    margin: 1em auto;
+    margin-bottom: 2em;
+    margin-top: 2em;}
+
+.monogram {
+    max-width: 160px;
+    margin-top: -19.1em;
+    margin-bottom: 0.5em;
+}
+
+.icons {
+    max-width: 800px;
+    margin-top: -1em;
+}
+
+.colour pallette {
+    max-width: 300px;
+}
+
+
+.visual marque { max-width: 200px;
+            float: left;
+            margin-right: 16em;
+            margin-top: -1.1em;
+            }
+
+.monogram { max-width: 250px;
+             float: right;
+             margin-right: 16em;
+             margin-top: 1em;}
+
+.icons-filled {
+    max-width: 600px;
+    margin-top: 1em;
+}
+
+.icons {
+    max-width: 600px;
+    margin-top: -2em;
+    margin-bottom: 5em;
+}
+
+/*--------------------FOOTER---------------------*/
+footer {
+    font-size: 0.8em;
+    text-align: center;
+    line-height: 1.7em;
+    padding: 3em 0;
+}
+
+.footer {
+    margin-bottom: -2em;
+}
