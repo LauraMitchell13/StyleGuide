@@ -128,7 +128,7 @@ img {
             }
 
 .monogram { max-width: 250px;
-             float: inherit;
+             float: none;
              margin-right: 16em;
              margin-top: 1em;}
 
